@@ -1,5 +1,3 @@
-require 'erb'
-require 'yaml'
 
 class AppConfig
   
